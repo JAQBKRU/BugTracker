@@ -1,19 +1,19 @@
 # LepszaSrednia-Project
 Team project developed by Lepsza Średnia.
 
-## Opis projektu:
-System do zarządzania zgłoszeniami błędów i problemów (Bug Tracking System) to aplikacja umożliwiająca zespołom IT efektywne zgłaszanie, śledzenie i zarządzanie błędami oraz innymi problemami w oprogramowaniu.
+## Project Description:
+The Bug Tracking System is an application that enables IT teams to efficiently report, track, and manage bugs and other issues within software.
 
-## Funkcjonalności:
-- **Rejestrowanie zgłoszeń** – Możliwość dodawania nowych zgłoszeń o błędach z opisem, priorytetem i kategorią.
-- **Przypisywanie zgłoszeń** – Przypisywanie błędów do konkretnych członków zespołu.
-- **Śledzenie statusu** – Monitorowanie statusów zgłoszeń (np. Nowe, W toku, Rozwiązane, Zamknięte).
-- **Priorytetyzacja zgłoszeń** – Oznaczanie zgłoszeń priorytetami (np. Niski, Średni, Wysoki, Krytyczny).
-- **Historia zmian** – Śledzenie zmian w zgłoszeniu, np. zmiana statusu, edycja opisu.
-- **Filtrowanie i wyszukiwanie** – Zaawansowane opcje filtrowania i wyszukiwania zgłoszeń.
-- **Rejestracja/logowanie** - Tworzenie nowego użytkownika posiadającego odpowiednie role i zaszyfrowane hasło w bazie danych, a także logowanie przed dokonaniem zgłoszenia.
+## Features:
+- **Issue Reporting** – Ability to create new bug reports with descriptions, priority, and category.
+- **Issue Assignment** – Assigning bugs to specific team members.
+- **Status Tracking** – Monitoring the statuses of issues (e.g., New, In Progress, Resolved, Closed).
+- **Issue Prioritization** – Assigning priority levels to issues (e.g., Low, Medium, High, Critical).
+- **Change History** – Tracking changes made to an issue, such as status updates or description edits.
+- **Filtering and Searching** – Advanced filtering and searching options for issues.
+- **Registration/Login** - Creating a new user with appropriate roles and an encrypted password in the database, as well as logging in before making a report.
 
-## Technologie:
+## Technologies:
 - **Frontend:** Angular / TypeScript
 - **Backend:** Java / Spring Boot
 - **Database:** PostgreSQL
